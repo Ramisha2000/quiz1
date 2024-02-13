@@ -1,0 +1,22 @@
+h1 {
+    text-align: left;
+    color: aliceblue;
+    position: relative;
+}
+body{
+    background-color: lightskyblue;
+}
+.box {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    max-width: 510px;
+    width: 100%;
+    background: white;
+    border-radius: 30px;
+  }
+  .box h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+    
